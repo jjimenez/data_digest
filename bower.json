@@ -9,14 +9,13 @@
     "nouislider": "~7.0.9",
     "modernizr": "2.0.6",
     "ericmmartin.simplemodal": "~1.4.5",
-    "qtip2": "git@github.com:bigtunacan/bower.git#master",
     "bootstrap": "2.3.2",
     "d3": "3.5.13",
     "dimple": "https://github.com/jjimenez/dimple.git#master",
     "bootstrap-css": "^3.3.6"
   },
   "authors": [
-    "Jose Jimenez <jose-jimenez@uiowa.edu>",
+    "Jose Jimenez <jose-jimenez@uiowa.edu>"
   ],
   "private": true,
   "ignore": [

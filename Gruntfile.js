@@ -5,7 +5,7 @@ module.exports = function(grunt){
   grunt.initConfig({
     wiredep: {
       target: {
-        src: ['./*.html']
+        src: './*.html'
       }
     },
     jshint: {
